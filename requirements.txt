@@ -1,0 +1,12 @@
+numpy>=1.19.5
+intel-tensorflow==2.4.0
+keras==2.4.3
+mtcnn
+pillow>=7.0.0
+bleach>=2.1.0
+matplotlib
+onnx
+onnx2keras
+mediapipe
+tqdm
+scikit-learn
